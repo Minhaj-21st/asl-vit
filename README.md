@@ -15,16 +15,11 @@ This project aims to build a lightweight, accurate, and scalable ASL recognition
 
 ## 📂 Project Structure
 
-.
 ├── ViT_ASL_Model.py # Main training and evaluation script
 ├── A.slurm # SLURM job submission script (for HPC usage)
 ├── requirements.txt # Python package dependencies
 ├── README.md # Project documentation
 └── data/ # [You will place the dataset here]
-
-yaml
-Copy
-Edit
 
 ---
 
@@ -35,6 +30,7 @@ Edit
 
 ```bash
 pip install -r requirements.txt
+
 Core dependencies:
 
 torch
@@ -58,11 +54,9 @@ After downloading, extract the contents and place the folder inside your project
 
 Train and evaluate the model
 Run the training script:
-
-bash
-Copy
-Edit
 python ViT_ASL_Model.py
+
+
 This will:
 
 Load and preprocess the dataset
@@ -71,46 +65,15 @@ Fine-tune the Vision Transformer
 
 Evaluate and print performance metrics
 
-
-
 ⚡ SLURM Support
 To train on an HPC cluster, you can use the provided SLURM script:
-
-bash
-Copy
-Edit
 sbatch A.slurm
-Make sure to edit the script to match your compute environment (e.g., modules, job name, time, etc.).
-
-📈 Future Work
-Expand to dynamic gesture classification (ASL words or sentences)
-
-Integrate real-time webcam inference
-
-Deploy as a web or mobile app using ONNX/TensorRT
 
 📄 License
 This project is licensed under the MIT License.
 
-© 2025 Dipok Deb
+© 2025 Hafijur Raman
 
 🤝 Acknowledgements
 Hugging Face Transformers
-
 ASL Alphabet Dataset on Kaggle
-
-yaml
-Copy
-Edit
-
----
-
-You're all set! Paste this into your `README.md` file and push to GitHub. Let me know if you want a markdown preview or live demo added next.
-
-
-
-
-
-
-
-
