@@ -1,8 +1,5 @@
 # 🧠 ASL-ViT: American Sign Language Classification with Vision Transformer
 
-![ASL Sample A](https://upload.wikimedia.org/wikipedia/commons/4/49/ASL_A.svg)
-![ASL Sample B](https://upload.wikimedia.org/wikipedia/commons/3/3b/ASL_B.svg)
-
 ---
 
 ## 📌 Project Description
