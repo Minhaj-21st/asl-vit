@@ -77,3 +77,4 @@ This project is licensed under the MIT License.
 🤝 Acknowledgements
 Hugging Face Transformers
 ASL Alphabet Dataset on Kaggle
+---
