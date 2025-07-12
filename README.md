@@ -90,7 +90,6 @@ After training, the script prints evaluation metrics including accuracy, precisi
 This project is licensed under the MIT License.
 
 ---
-<<<<<<< HEAD
 
 ## 🤝 Acknowledgements
 - Hugging Face Transformers
