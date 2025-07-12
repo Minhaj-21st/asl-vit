@@ -1,4 +1,4 @@
-# 🧠 ASL-ViT: American Sign Language Classification with Vision Transformer
+[# 🧠 ASL-ViT: American Sign Language Classification with Vision Transformer
 
 ---
 
@@ -75,3 +75,4 @@ This project is licensed under the MIT License.
 Hugging Face Transformers
 ASL Alphabet Dataset on Kaggle
 ---
+](https://github.com/Minhaj-21st/asl-vit.git)
