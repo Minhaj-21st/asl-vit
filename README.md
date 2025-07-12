@@ -1,4 +1,4 @@
-[# 🧠 ASL-ViT: American Sign Language Classification with Vision Transformer
+# 🧠 ASL-ViT: American Sign Language Classification with Vision Transformer
 
 ## Overview
 
