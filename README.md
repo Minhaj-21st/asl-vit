@@ -100,5 +100,3 @@ This project is licensed under the MIT License.
 
 © 2025 Hafijur Raman
 =======
-](https://github.com/Minhaj-21st/asl-vit.git)
->>>>>>> 8f75299ab4fb5eb7e313a0657282740cc84eeda4
